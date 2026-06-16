@@ -60,4 +60,4 @@ elif choice == "2":
     decrypt_image(input_file, output_file, key)
 
 else:
-    print("Invalid choice...!")
+    print("Invalid choice!")
